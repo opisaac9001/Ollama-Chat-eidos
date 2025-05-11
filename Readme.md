@@ -60,14 +60,14 @@ The interface is designed to closely resemble the look and feel of Claude's chat
 
 Code blocks are rendered with beautiful syntax highlighting and clear formatting, making it easy to read and copy code examples.
 
-![Code formatting example](ScreenShot1 (2).png)
+![Code formatting example](ScreenShot2.png)
 _Example: Attractive formatting of code snippets and technical answers._
 
 ### System Prompt & History Panels
 
 Easily set a custom system prompt or browse your chat history using slide-out panels.
 
-![System prompt and history panels](ScreenShot2.png)
+![System prompt and history panels](ScreenShot3.png)
 
 ---
 
