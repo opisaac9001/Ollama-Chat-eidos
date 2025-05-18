@@ -1,3 +1,6 @@
+This is just my fork for my own usage with my eidos project. Tons of stuff added that wont be used in normal use. 
+
+
 # Ollama Chat - Claude Style
 
 A modern, single-page web chat interface for local LLMs (Large Language Models) running on [Ollama](https://ollama.com/), inspired by the visual style and UX of Anthropic's Claude. This project provides a beautiful, feature-rich frontend for chatting with your local models, supporting Markdown, code highlighting, math rendering, system prompts, file uploads, and chat history.
